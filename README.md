@@ -1,5 +1,5 @@
-# subir-ionic-cordova-play-store
-Bash para subir aplicación Android creada mediante ionic/cordova a la Playstore 
+# subir-ionic-play-store
+Bash para subir aplicación Android creada mediante ionic a la Playstore 
 
 
 ## Introducción
@@ -25,7 +25,7 @@ android-versionCode="16" version="3.1.4"
 
 
 ## Uso
-Descargar el archivo subirStore.sh y ubicarlo en la raiz del proyecto ionic/cordova.
+Descargar el archivo subirStore.sh y ubicarlo en la raiz del proyecto ionic.
 
 ##Crear Firma (Sólo una vez)
 Crear el archivo de firma (SÓLO SE HACE UNA VEZ ESTE PASO), se debe poner el comando -f seguido por el nombre del proyecto. (el texto se pone sin las comillas).
